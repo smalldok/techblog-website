@@ -3,7 +3,7 @@
 * 构建工具 [Hexo](https://hexo.io/zh-cn/docs/)
 * 主题 [NexT.Mist](https://github.com/iissnan/hexo-theme-next)
 
-`我生成的技术博客访问地址：https://smalldok.github.io/index.html`
+`我生成的技术博客访问地址：` [https://smalldok.github.io/index.html](https://smalldok.github.io/index.html)
 
 
 # 使用
@@ -46,8 +46,8 @@ $ hexo new page "categories" #新建归档页面
 ```
 
 # 参考
-https://hexo.io/zh-cn/docs/
-http://www.jianshu.com/p/58e789456440
+* https://hexo.io/zh-cn/docs/  
+* http://www.jianshu.com/p/58e789456440
 
 # 常见问题
 ## hexo g无法生成页面,报错
