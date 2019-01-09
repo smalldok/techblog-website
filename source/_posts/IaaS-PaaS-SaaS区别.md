@@ -6,7 +6,8 @@ tags:
   - Iaas
   - PaaS
   - SaaS
-categories: 其他
+categories:   
+  - 其他
 ---
 
 Infrastructure（基础设施）-as-a- Service，

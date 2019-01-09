@@ -4,10 +4,11 @@
 
 # Site
 title: Smalldok's Tech Blog
-subtitle: 互联网基础设施
-description: JAVA服务端架构，目前方向是微服务落地、DevOps，且持续关注service mesh
+subtitle: 穷则变、变则通、通则达
+description: JAVA服务端架构，目前方向是微服务落地、基础设施、中间件、DevOps
 author: smalldok
-language: zh-Hans
+#language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -57,13 +58,14 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 2
+per_page: 1
 pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+# theme: next
+theme: hexo-theme-next-6.7.0
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
