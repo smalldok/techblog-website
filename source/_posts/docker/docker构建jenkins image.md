@@ -1,10 +1,11 @@
 ---
 title: Docker构建Jenkins image
 comments: true
-date: 2018-04-13 10:12:00
 tags:
-  - docker  
+  - docker
 categories: 容器
+abbrlink: 20993
+date: 2018-04-13 10:12:00
 ---
 
 # 引言

@@ -1,11 +1,12 @@
 ---
 title: h2客户端工具DbVisualizer
 comments: true
-date: 2017-08-22 23:13:00
-tags: 
-  - H2  
-  - 嵌入式数据库  
+tags:
+  - H2
+  - 嵌入式数据库
 categories: 嵌入式数据库
+abbrlink: 31153
+date: 2017-08-22 23:13:00
 ---
 
 

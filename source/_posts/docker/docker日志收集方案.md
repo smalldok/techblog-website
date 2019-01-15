@@ -1,10 +1,11 @@
 ---
 title: docker日志收集方案
 comments: true
-date: 2018-07-6 16:12:00
 tags:
-  - docker  
+  - docker
 categories: 容器
+abbrlink: 63583
+date: 2018-07-06 16:12:00
 ---
 
 # docker 日志收集方案

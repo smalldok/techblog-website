@@ -1,11 +1,12 @@
 ---
 title: spring-retry 破坑
 comments: true
-date: 2017-08-30 10:12:00
 tags:
   - 重试
-  - 降级  
+  - 降级
 categories: 服务治理
+abbrlink: 26380
+date: 2017-08-30 10:12:00
 ---
 
 ## 使用场景

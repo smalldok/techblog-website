@@ -1,11 +1,12 @@
 ---
 title: 前端开发工具之vscode安装配置
 comments: true
-date: 2017-08-04 17:22:00
-tags: 
-  - 前端  
-  - 工具  
+tags:
+  - 前端
+  - 工具
 categories: 前端
+abbrlink: 57359
+date: 2017-08-04 17:22:00
 ---
 
 

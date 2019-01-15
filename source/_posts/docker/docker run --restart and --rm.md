@@ -1,10 +1,11 @@
 ---
 title: docker run --restart and --rm
 comments: true
-date: 2018-07-9 10:12:00
 tags:
-  - docker  
+  - docker
 categories: 容器
+abbrlink: 19968
+date: 2018-07-09 10:12:00
 ---
 
 

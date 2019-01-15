@@ -1,13 +1,14 @@
 ---
 title: IaaS-PaaS-SaaS区别
-date: 2017-06-30 10:12:56
 comments: true
 tags:
   - Iaas
   - PaaS
   - SaaS
-categories:   
+categories:
   - 其他
+abbrlink: 32302
+date: 2017-06-30 10:12:56
 ---
 
 Infrastructure（基础设施）-as-a- Service，

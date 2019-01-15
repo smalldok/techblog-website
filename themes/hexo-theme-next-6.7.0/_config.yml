@@ -217,6 +217,7 @@ links:
   xxl-job: https://github.com/xuxueli/xxl-job
   apollo: https://github.com/ctripcorp/apollo
   sharding-sphere: https://github.com/sharding-sphere
+  fescar: https://github.com/alibaba/fescar
   ByteTCC: https://github.com/liuyangming/ByteTCC
   tcc-transaction: https://github.com/changmingxie/tcc-transaction
   rocketmq: https://github.com/apache/rocketmq
@@ -307,9 +308,9 @@ read_more_btn: true
 # Post meta display settings
 post_meta:
   item_text: true
-  created_at: true
+  created_at: false
   updated_at:
-    enabled: true
+    enabled: false
     # If true, show updated date label only if `updated date` different from `created date` (post edited in another day than was created).
     # And if post will edited in same day as created, edited time will show in popup title under created time label.
     # If false show anyway, but if post edited in same day, show only edited time.
@@ -601,7 +602,8 @@ gitalk:
 #    button | slide
 # Warning: Baidu Share does not support https.
 #baidushare:
-##  type: button
+#  type: button
+#  baidushare: false
 
 # addthis Share, see: https://www.addthis.com
 #add_this_id:
@@ -618,14 +620,14 @@ gitalk:
 needmoreshare2:
   enable: false
   postbottom:
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
       position: bottomCenter
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
   float:
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
@@ -769,7 +771,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -1079,3 +1081,7 @@ vendors:
 css: css
 js: js
 images: images
+
+# hahaha..
+passage_end_tag:
+  enabled: true

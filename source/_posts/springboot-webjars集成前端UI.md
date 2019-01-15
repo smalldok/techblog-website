@@ -1,12 +1,13 @@
 ---
 title: springboot-webjars集成前端UI
 comments: true
-date: 2017-08-17 22:22:00
-tags: 
-  - 前端  
+tags:
+  - 前端
   - springboot
-  - 后台管理  
+  - 后台管理
 categories: springboot
+abbrlink: 62815
+date: 2017-08-17 22:22:00
 ---
 
 ## 什么是WebJars

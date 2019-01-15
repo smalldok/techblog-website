@@ -1,10 +1,11 @@
 ---
 title: jenkins+springboot
 comments: true
-date: 2017-07-17 10:12:37
 tags:
-  - jenkins  
+  - jenkins
 categories: jenkins
+abbrlink: 6499
+date: 2017-07-17 10:12:37
 ---
 
 1、环境  

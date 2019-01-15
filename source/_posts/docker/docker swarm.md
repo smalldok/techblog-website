@@ -1,10 +1,11 @@
 ---
 title: docker swarm mode
 comments: true
-date: 2018-07-6 16:12:00
 tags:
-  - docker  
+  - docker
 categories: 容器
+abbrlink: 18875
+date: 2018-07-06 16:12:00
 ---
 
 # 准备环境

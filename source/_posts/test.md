@@ -1,11 +1,11 @@
 ---
 title: test
-date: 2017-06-30 10:12:56
 comments: true
+categories:
+  - 其他
+abbrlink: 63534
+date: 2017-06-30 10:12:56
 tags:
-categories:   
-  - 其他 
-  
 ---
 
 test....
